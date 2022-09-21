@@ -1,8 +1,9 @@
 # 内容：指定内网IP
 
+DOMAIN,beocloudpubliciplivewesteu.westeurope.cloudapp.azure.com
+DOMAIN-KEYWORD,bang-olufsen
+DOMAIN-KEYWORD,beo
 SRC-IP-CIDR,192.168.50.68/32
 SRC-IP-CIDR,192.168.50.142/32
 SRC-IP-CIDR,192.168.50.37/32
 SRC-IP-CIDR,192.168.50.251/32
-DOMAIN-KEYWORD,bang-olufsen
-DOMAIN-KEYWORD,beo
