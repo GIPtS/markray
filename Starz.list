@@ -1,4 +1,5 @@
 # > STARZ&STARZPLAY
+DOMAIN-KEYWORD,starz
 DOMAIN-SUFFIX,starz.com
 DOMAIN-SUFFIX,auth-ios.starz.com
 DOMAIN-SUFFIX,playdata.starz.com
@@ -8,4 +9,5 @@ DOMAIN-SUFFIX,mecdn8.starz.com
 DOMAIN-SUFFIX,auth.starz.com
 DOMAIN-SUFFIX,mecdn2.starz.com
 DOMAIN,mds.stz-aws53.com
-DIMAIN,carousels.imgix.net
+DOMAIN,carousels.imgix.net
+DOMAIN,recommender-prod-green.stz-aws53.com
