@@ -1,0 +1,11 @@
+# > STARZ&STARZPLAY
+DOMAIN-SUFFIX,starz.com
+DOMAIN-SUFFIX,auth-ios.starz.com
+DOMAIN-SUFFIX,playdata.starz.com
+DOMAIN-SUFFIX,analytics.starz.com
+DOMAIN-SUFFIX,playauthcontent.starz.com
+DOMAIN-SUFFIX,mecdn8.starz.com
+DOMAIN-SUFFIX,auth.starz.com
+DOMAIN-SUFFIX,mecdn2.starz.com
+DOMAIN,mds.stz-aws53.com
+DIMAIN,carousels.imgix.net
