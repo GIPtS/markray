@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,smtp.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN,smtp.yahoo.com
