@@ -1,2 +1,4 @@
 DOMAIN,smtp.gmail.com
 DOMAIN,apple.smtp.mail.yahoo.com
+DOMAIN,imap.gmail.com
+DOMAIN,apple.imap.mail.yahoo.com
