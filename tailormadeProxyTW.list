@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,activision.com
 DOMAIN-SUFFIX,demonware.net
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,dcard.tw
-DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
