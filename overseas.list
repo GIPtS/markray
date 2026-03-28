@@ -1,3 +1,4 @@
 DOMAIN,apple-relay.apple.com
 DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-KEYWORD,openai
 IP-CIDR,17.248.152.98/16,no-resolve
